@@ -34,5 +34,5 @@ Je me passionne pour l'extraction de connaissances à partir de données massive
 
 
 ### 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sarah DOGBO/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=hb_signin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasarahdogbo@gmail.com)
