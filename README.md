@@ -1,13 +1,13 @@
-# Salut ! Moi c'est [TON PRÉNOM] 👋 
+# Salut ! Moi c'est Sarah👋 
 
-### 🤖 Étudiant en Master IA & Big Data
-Je me passionne pour l'extraction de connaissances à partir de données massives et la conception de modèles d'apprentissage profond.
+### 🤖 Étudiante en Master IA & Big Data
+Je me passionne pour l'extraction de connaissances à partir de données massives et la conception de modèles d'apprentissage 
 
 ---
 
 ### 🚀 En quelques mots...
 - 🎓 Actuellement en **Master Intelligence Artificielle et Big Data**.
-- 🔍 Je m'intéresse particulièrement à : [ex: Traitement du Langage Naturel (NLP), Computer Vision, MLOps].
+- 🔍 Je m'intéresse particulièrement à : [ex: L'analyse de données ,Machine Learning, Traitement du Langage Naturel (NLP), Computer Vision].
 - 🛠️ Je travaille actuellement sur : [Nom d'un projet ou "mon portfolio de Data Science"].
 - ⚡ Fait amusant : [Une petite anecdote ou passion hors code].
 
@@ -35,11 +35,11 @@ Je me passionne pour l'extraction de connaissances à partir de données massive
 ---
 
 ### 📊 Mes Statistiques GitHub
-![Stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO]&layout=compact&theme=radical)
+![Stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=SARAH-GIT90&show_icons=true&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-GIT90&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([TON_LIEN_LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TON_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Sarah DOGBO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasarahdogbo@gmail.com)
