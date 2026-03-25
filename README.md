@@ -7,8 +7,8 @@ Je me passionne pour l'extraction de connaissances à partir de données massive
 
 ###  En quelques mots...
 -  Actuellement en **Master Intelligence Artificielle et Big Data**.
--  Je m'intéresse particulièrement à : [ex: L'analyse de données ,Machine Learning, Traitement du Langage Naturel (NLP), Computer Vision].
-- Hobbies : Design(Graphisme, UI/UX), Langues(Anglais, Mandarin,Espagnol), Musique, Lecture, Cinéma.
+-  Je m'intéresse particulièrement à : L'analyse de données ,Machine Learning, Traitement du Langage Naturel (NLP), Computer Vision.
+- Hobbies : Design(Graphisme, UI/UX), Langues(Anglais, Mandarin, Espagnol), Musique, Lecture, Cinéma.
 
 ---
 
