@@ -5,19 +5,17 @@ Je me passionne pour l'extraction de connaissances à partir de données massive
 
 ---
 
-### 🚀 En quelques mots...
-- 🎓 Actuellement en **Master Intelligence Artificielle et Big Data**.
-- 🔍 Je m'intéresse particulièrement à : [ex: L'analyse de données ,Machine Learning, Traitement du Langage Naturel (NLP), Computer Vision].
-- 🛠️ Je travaille actuellement sur : [Nom d'un projet ou "mon portfolio de Data Science"].
-- ⚡ Fait amusant : [Une petite anecdote ou passion hors code].
+###  En quelques mots...
+-  Actuellement en **Master Intelligence Artificielle et Big Data**.
+-  Je m'intéresse particulièrement à : [ex: L'analyse de données ,Machine Learning, Traitement du Langage Naturel (NLP), Computer Vision].
+- Hobbies : Design(Graphisme, UI/UX), Langues(Anglais, Mandarin,Espagnol), Musique, Lecture, Cinéma.
 
 ---
 
-### 🛠️ Mon Stack Technique
+###  Mon Stack Technique
 
 **Langages & Data Science**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Intelligence Artificielle**
@@ -34,11 +32,6 @@ Je me passionne pour l'extraction de connaissances à partir de données massive
 
 ---
 
-### 📊 Mes Statistiques GitHub
-![Stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=SARAH-GIT90&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=SARAH-GIT90&layout=compact&theme=radical)
-
----
 
 ### 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Sarah DOGBO)
