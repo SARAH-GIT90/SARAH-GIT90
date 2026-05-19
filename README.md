@@ -1,4 +1,4 @@
-# Salut ! Moi c'est Sarah👋 
+# Salut ! Moi c'est Sarah!
 
 ### Étudiante en Master IA & Big Data
 Je me passionne pour l'extraction de connaissances à partir de données massives et la conception de modèles d'apprentissage 
